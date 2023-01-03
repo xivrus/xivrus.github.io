@@ -1,0 +1,19 @@
+toc:
+  - title: Скачать
+    url: /download
+  - title: Галерея
+    url: /gallery
+  - title: Инструкции
+    subfolderitems:
+    - page: Установка
+      url: /guide/install
+    - page: Обновление
+      url: /guide/update
+    - page: Удаление
+      url: /guide/uninstall
+  - title: О нас
+    url: /about
+  - title: Помочь в переводе
+    url: /help
+  - title: FAQ
+    url: /faq
