@@ -7,4 +7,4 @@ project:
   download_text: Скачать
 
 # Build settings
-theme: xivrus/xivrus-theme
+remote_theme: xivrus/xivrus-theme
