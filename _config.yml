@@ -6,5 +6,8 @@ project:
   download_url: https://xivrus.ru/download
   download_text: Скачать
 
+plugins:
+  - jekyll-remote-theme
+
 # Build settings
 remote_theme: xivrus/xivrus-theme
