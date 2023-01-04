@@ -9,5 +9,11 @@ project:
 plugins:
   - jekyll-remote-theme
 
+ui:
+  mode: 'dark' # 'auto', 'dark', 'light'
+
 # Build settings
 remote_theme: xivrus/xivrus-theme
+markdown: kramdown
+kramdown:
+  parse_block_html: true
