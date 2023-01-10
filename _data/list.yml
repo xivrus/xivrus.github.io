@@ -11,6 +11,8 @@ toc:
       url: /guide/update
     - page: Удаление
       url: /guide/uninstall
+    - page: Переход с TexTools
+      url: /guide/textools
   - title: О нас
     url: /about
   - title: Помочь в переводе
