@@ -6,6 +6,12 @@ project:
   download_url: https://xivrus.ru/download
   download_text: Скачать
 
+  homepage:
+    - title: Наш Discord
+      icon: discord
+      brand: true
+      url: https://discord.gg/e6z2VY8fNj
+
 plugins:
   - jekyll-remote-theme
 
