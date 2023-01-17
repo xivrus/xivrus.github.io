@@ -1,7 +1,6 @@
 ---
 layout: full
 homepage: true
-title: XIV Rus
 ---
 
 ## Приветствуем, дорогие друзья! {#hi}
