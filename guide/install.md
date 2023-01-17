@@ -8,6 +8,9 @@ title: Установка локализации
 2. [Установка плагина Penumbra](#install-penumbra)
 3. [Установка модпака](#import-modpack)
 
+**Если вы пользовались модпаком в TexTools, то выполните сначала эту инструкцию:\
+[Переход с TexTools на Penumbra](/guide/textools).**
+
 ## 1. Установка XIVLauncher {#install-xivlauncher}
 
 ### О лаунчере {#install-xivlauncher-about}
