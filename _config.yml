@@ -6,6 +6,7 @@ project:
   download_url: https://xivrus.ru/download
   download_text: Скачать
 
+links:
   homepage:
     - title: Наш Discord
       icon: discord
