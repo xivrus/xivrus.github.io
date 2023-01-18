@@ -4,9 +4,13 @@ title: FAQ
 ---
 
 [Могут ли забанить за моды?](#q-is-using-mods-a-bannable-offense)
+
 [Как общаться с другими игроками, если я буду видеть названия заданий и подземелий на русском?](#q-how-to-speak-with-other-players)
+
 [Будут ли ломаться другие моды и плагины?](#q-will-other-mods-and-plugins-break)
+
 [Мои макросы перестали работать!](#q-my-macros-stopped-working)
+
 [Я хочу помочь с переводом/текстом, влиться в команду!](#q-i-want-to-help-translate-the-game)
 
 ### Могут ли забанить за моды? {#q-is-using-mods-a-bannable-offense}
