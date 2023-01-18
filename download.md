@@ -7,7 +7,7 @@ title: Скачать
 
 ### Текущий прогресс перевода {#current-progress}
 
-<details>
+<details style="color: #d8d8d8">
   <summary>Открыть список
   </summary>
 
