@@ -65,6 +65,6 @@ title: Скачать
 
 ---
 
-[Скачать](https://github.com/xivrus/xiv_ru_weblate/releases/download/latest){: .site-masthead__button mx-2 mb-2}
+[Скачать](https://github.com/xivrus/xiv_ru_weblate/releases/latest/download/release.pmp){: .site-masthead__button mx-2 mb-2}
 
 [История изменений прошлых версий](/changelog)
