@@ -3,6 +3,12 @@ layout: page
 title: Установка локализации
 ---
 
+Видео-инструкция от [Art Radio](https://www.youtube.com/@ArtRadio_FFXIV):
+
+{% include youtubePlayer.html id = "G5VP2aVvb8E" %}
+
+***
+
 Локализация является модпаком для плагина Penumbra. Установка выполняется в 3 шага:
 1. [Установка неофициального лаунчера XIVLauncher](#install-xivlauncher)
 2. [Установка плагина Penumbra](#install-penumbra)
