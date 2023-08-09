@@ -11,7 +11,7 @@ title: Скачать
 ### Текущий прогресс перевода {#current-progress}
 
 <details style="color: #d8d8d8">
-  <summary>Открыть список
+  <summary><b>Нажми меня, чтобы открыть список</b>
   </summary>
 
   * Значительная часть интерфейса
