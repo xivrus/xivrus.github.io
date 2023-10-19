@@ -13,21 +13,28 @@ title: Пожертвования
   <summary>Открыть список
   </summary>
 
-  * Glenn ON
+  * Crossfire Crossfire
   * Ifritu
-  * Kovas Irhild
   * Mellyoker
-  * Renjankensa Rashas
-  * Saint Morra
+  * Roman Bobrovskiy
+  * Seryoga Yakimov
   * Taimer
-  * Voldemar Kellerman
+  * Tim OBessenger
+  * Traet
   * anna_jija
   * kosakovitch
-  * Владимир Духанин
+  * speedball
+  * Артазаэль
   * Гонзутто
   * Динтра
+  * Дмитрий Люман
+  * Дмитрий Мурзин
   * Евгений Жолобов
+  * Евгений Орлов
   * Максим Ерофеев
+  * Марат Сабитов
+  * Миё
+  * Никита Журавлёв
   * Тимур Беха
 </details>
 
