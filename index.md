@@ -13,7 +13,7 @@ FINAL FANTASY XIV на данный момент является самой п�
 {% assign files = "/assets/img/gallery/01.png /assets/img/gallery/02.png /assets/img/gallery/03.png /assets/img/gallery/09.png /assets/img/gallery/14.png" | split: " " %}
 {% include image-gallery.html files = files %}
 
-{% include youtubePlayer.html id = "DbZ9hSxz7S4" %}
+{% include youtubePlayer.html id = "nobVC2cfgbo" %}
 
 ## Важная информация: {#mini-faq}
 
