@@ -49,6 +49,8 @@ title: Пожертвования
 
 Чтобы обратиться к продавцу, отсканируйте один из QR-кодов ниже или нажмите на него. Все детали покупки игры вы можете узнать у него.
 
+Лайфхак: Цены ниже всего, если обращаться напрямую!
+
 [![QR-код Аделеджи - Telegram](/assets/img/adeledji/qr-adeledji-telegram.png){: width="30%"}](https://t.me/Adeledji)[![QR-код Аделеджи - Discord](/assets/img/adeledji/qr-adeledji-discord.png){: width="30%"}](https://discord.com/users/493564302360444938)[![QR-код Аделеджи - FunPay](/assets/img/adeledji/qr-adeledji-funpay.png){: width="30%"}](https://funpay.com/users/654994/)
 {: style="text-align: center"}
 
