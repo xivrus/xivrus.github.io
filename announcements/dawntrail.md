@@ -71,7 +71,7 @@ _(прим. перевод.: по вопросам русификатора **о
 
 ## Penumbra --- Осталась одна неделя {#penumbra}
 
-_Текст от **Ottermandias** в Discord-сервере <<Penumbra & Glamourer>> --- [ссылка на полный текст](https://discord.com/channels/884363610640498698/884364386389614592/1253692568273686648)._
+_Текст от **Ottermandias** в Discord-сервере <<Penumbra & Glamourer>> --- [ссылка на полный текст](https://discord.com/channels/884363610640498698/884364386389614592/1253692568273686648)._\
 _Ссылка на Discord-сервер: [https://discord.gg/kVva7DHV4r](https://discord.gg/kVva7DHV4r)_
 
 ### Penumbra и Glamourer в Dawntrail {#penumbra-penumbra-and-glamourer}
