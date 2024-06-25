@@ -4,6 +4,8 @@ homepage: true
 title: XIV Rus
 ---
 
+## [ВАЖНО! ОБЪЯВЛЕНИЯ О DAWNTRAIL!]({{ '/announcements/dawntrail' | relative_url }})
+
 ## Приветствуем, дорогие друзья! {#hi}
 
 Большое спасибо, что заглянули.
