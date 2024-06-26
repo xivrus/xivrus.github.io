@@ -5,11 +5,11 @@ title: Скачать
 
 ## Последняя версия --- 0.7.0 (для патча 6.58-hotfix4) {#latest}
 
-<!-- **ВНИМАНИЕ!**\
+**ВНИМАНИЕ!**\
 Модификация временно недоступна для скачивания, пока мы не обновим её для новой версии игры **7.0**.\
 Так как это новое дополнение, ждать обновление перевода придётся **сильно дольше, чем обычно**.\
 **Удалите текущую версию русификатора.**\
-Более подробно см. объявления касательно Dawntrail: [XIV Rus и остальные моды в Dawntrail]({{ '/announcements/dawntrail' | relative_url }}) -->
+Более подробно см. объявления касательно Dawntrail: [XIV Rus и остальные моды в Dawntrail]({{ '/announcements/dawntrail' | relative_url }})
 
 ### Текущий прогресс перевода {#current-progress}
 
@@ -78,16 +78,16 @@ title: Скачать
 
 ---
 
-<!-- **Скачивание временно недоступно,\
+Скачивание временно недоступно,\
 ожидайте обновление модификации\
-под новую версию игры (7.0).**\
+под новую версию игры **7.0**.\
 Так как это новое дополнение,\
 ждать обновление перевода придётся\
 **сильно дольше, чем обычно**.\
 **Удалите текущую версию русификатора.**\
 Более подробно см. объявления касательно Dawntrail:\
-[XIV Rus и остальные моды в Dawntrail]({{ '/announcements/dawntrail' | relative_url }}) -->
+[XIV Rus и остальные моды в Dawntrail]({{ '/announcements/dawntrail' | relative_url }})
 
-[Скачать](https://github.com/xivrus/xiv_ru_weblate/releases/latest/download/release.pmp){: .site-masthead__button mx-2 mb-2}
+<!-- [Скачать](https://github.com/xivrus/xiv_ru_weblate/releases/latest/download/release.pmp){: .site-masthead__button mx-2 mb-2} -->
 
 [История изменений прошлых версий](/changelog)
