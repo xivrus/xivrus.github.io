@@ -4,7 +4,10 @@ homepage: true
 title: XIV Rus
 ---
 
-## [ВАЖНО! ОБЪЯВЛЕНИЯ О DAWNTRAIL!]({{ '/announcements/dawntrail' | relative_url }})
+## Объявления
+
+* 30.07.2024 --- [**Промежуточное объявление по поводу обновления перевода**]({{ '/announcements/dawntrail-2' | relative_url }})
+* 25.06.2024 --- [XIV Rus и остальные моды в Dawntrail]({{ '/announcements/dawntrail' | relative_url }})
 
 ## Приветствуем, дорогие друзья! {#hi}
 
