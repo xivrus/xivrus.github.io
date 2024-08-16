@@ -4,15 +4,7 @@ toc:
   - title: Галерея
     url: /gallery
   - title: Инструкции
-    subfolderitems:
-    - page: Установка
-      url: /guide/install
-    - page: Обновление
-      url: /guide/update
-    - page: Удаление
-      url: /guide/uninstall
-    - page: Переход с TexTools
-      url: /guide/textools
+    url: /guide
   - title: О нас
     url: /about
   - title: Помочь в переводе
