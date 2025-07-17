@@ -20,6 +20,9 @@ plugins:
 ui:
   mode: 'dark' # 'auto', 'dark', 'light'
 
+collections:
+  - changelogs
+
 # Build settings
 remote_theme: xivrus/xivrus-theme
 markdown: kramdown
