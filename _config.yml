@@ -1,6 +1,7 @@
 name: XIV Rus
 description: Неофициальная русская локализация FINAL FANTASY XIV
 locale: ru-RU
+url: https://xivrus.ru
 
 project:
   version: Команда XIV Rus НЕ связана со SQUARE ENIX ни в каком виде или форме. Представленный командой контент не является официальным и не претендует на интерпретацию мнений или взглядов SQUARE ENIX.
