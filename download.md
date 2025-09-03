@@ -7,7 +7,7 @@ title: Скачать
 {% assign latest_changelog_file = changelogs.files | last %}
 {% assign latest_version        = latest_changelog_file.basename %}
 
-## Последняя версия --- {{ latest_version }} (для патча 7.3hf1) {#latest}
+## Последняя версия --- {{ latest_version }} (для патча 7.31) {#latest}
 
 <!-- **ВНИМАНИЕ!**\
 Модификация временно недоступна для скачивания, пока мы не обновим её для новой версии игры **7.3**. -->
