@@ -45,6 +45,7 @@ title: Скачать
     * **Разбойник** / **Ниндзя** (*Rogue* / *Ninja*) --- ур. 1--50
     * **Оккультист** / **Чёрный маг** (*Thaumaturge* / *Black Mage*) --- ур. 1--50
     * **Элементалист** / **Белый маг** (*Conjurer* / *White Mage*) --- ур. 1--50
+    * **Механик** (*Machinist*) --- ур. 30--50
     * **Тёмный рыцарь** (*Dark Knight*) --- ур. 30--80
     * **Самурай** (*Samurai*) --- ур. 50--70
 	  * **Красный маг** (*Red Mage*) --- ур. 50--70
@@ -101,7 +102,7 @@ title: Скачать
 [XIV Rus и остальные моды в Dawntrail]({{ '/announcements/dawntrail' | relative_url }}) -->
 
 [Скачать](https://github.com/xivrus/xiv_ru_weblate/releases/latest/download/release.pmp){: .site-masthead__button mx-2 mb-2}
-[Зеркало](https://builds.xivrus.ru/releases/XIVRus-1.14.0-2025-10-10-21-56.pmp){: .site-masthead__button mx-2 mb-2}
+[Зеркало](https://builds.xivrus.ru/releases/XIVRus-1.15.0-2025-10-27-19-27.pmp){: .site-masthead__button mx-2 mb-2}
 
 [История изменений прошлых версий](/changelog)
 
