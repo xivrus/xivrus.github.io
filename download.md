@@ -7,7 +7,7 @@ title: Скачать
 {% assign latest_changelog_file = changelogs.files | last %}
 {% assign latest_version        = latest_changelog_file.basename %}
 
-## Последняя версия --- {{ latest_version }} (для патча 7.35) {#latest}
+## Последняя версия --- {{ latest_version }} (для патча 7.38) {#latest}
 
 <!-- **ВНИМАНИЕ!**\
 Модификация временно недоступна для скачивания, пока мы не обновим её для новой версии игры **7.3**. -->
@@ -102,7 +102,7 @@ title: Скачать
 [XIV Rus и остальные моды в Dawntrail]({{ '/announcements/dawntrail' | relative_url }}) -->
 
 [Скачать](https://github.com/xivrus/xiv_ru_weblate/releases/latest/download/release.pmp){: .site-masthead__button mx-2 mb-2}
-[Зеркало](https://builds.xivrus.ru/releases/XIVRus-1.15.0-2025-10-27-19-43.pmp){: .site-masthead__button mx-2 mb-2}
+[Зеркало](https://builds.xivrus.ru/releases/XIVRus-1.15.1-2025-11-12-19-38.pmp){: .site-masthead__button mx-2 mb-2}
 
 [История изменений прошлых версий](/changelog)
 
