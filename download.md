@@ -102,7 +102,7 @@ title: Скачать
 [XIV Rus и остальные моды в Dawntrail]({{ '/announcements/dawntrail' | relative_url }}) -->
 
 [Скачать](https://github.com/xivrus/xiv_ru_weblate/releases/latest/download/release.pmp){: .site-masthead__button mx-2 mb-2}
-[Зеркало](https://builds.xivrus.ru/releases/XIVRus-1.16.2-2026-01-29-18-35.pmp){: .site-masthead__button mx-2 mb-2}
+[Зеркало](https://builds.xivrus.ru/releases/XIVRus-1.16.2-2026-01-29-18-41.pmp){: .site-masthead__button mx-2 mb-2}
 
 [История изменений прошлых версий](/changelog)
 
