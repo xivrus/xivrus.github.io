@@ -7,7 +7,7 @@ title: Скачать
 {% assign latest_changelog_file = changelogs.files | last %}
 {% assign latest_version        = latest_changelog_file.basename %}
 
-## Последняя версия --- {{ latest_version }} (для патча 7.41) {#latest}
+## Последняя версия --- {{ latest_version }} (для патча 7.41hf1) {#latest}
 
 <!-- **ВНИМАНИЕ!**\
 Модификация временно недоступна для скачивания, пока мы не обновим её для новой версии игры **7.3**. -->
@@ -28,7 +28,7 @@ title: Скачать
 	  * **Stormblood** --- полностью (патчи игры --- 4.0--4.58)
 	  * **Shadowbringers** --- полностью (патчи игры --- 5.0--5.58)
 	  * **Endwalker** --- полностью (патчи игры --- 6.0--6.58)
-    * **Dawntrail** --- полностью (патчи игры --- 7.0--7.3)
+    * **Dawntrail** --- полностью (патчи игры --- 7.0--7.4)
   * Хроники новой эры:
     * **Кристальная башня** (*Crystal Tower*)
 	  * **Тень Мхака** (*The Shadow of Mhach*)
@@ -102,7 +102,7 @@ title: Скачать
 [XIV Rus и остальные моды в Dawntrail]({{ '/announcements/dawntrail' | relative_url }}) -->
 
 [Скачать](https://github.com/xivrus/xiv_ru_weblate/releases/latest/download/release.pmp){: .site-masthead__button mx-2 mb-2}
-[Зеркало](https://builds.xivrus.ru/releases/XIVRus-1.16.2-2026-01-29-18-41.pmp){: .site-masthead__button mx-2 mb-2}
+[Зеркало](https://builds.xivrus.ru/releases/XIVRus-1.17.0-2026-02-11-14-03.pmp){: .site-masthead__button mx-2 mb-2}
 
 [История изменений прошлых версий](/changelog)
 
