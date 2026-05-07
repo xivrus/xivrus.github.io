@@ -1,4 +1,4 @@
 {
 	"status_values": "0 - OK, 1 - Warning, 2 - Disabled",
-	"status": 2
+	"status": 0
 }
