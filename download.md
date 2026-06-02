@@ -92,9 +92,9 @@ title: Скачать
 
 ---
 
-<!-- Скачивание временно недоступно,\
+Скачивание временно недоступно,\
 ожидайте обновление модификации\
-под новую версию игры **7.3**.\ -->
+под новую версию игры **7.51**.\
 <!-- Так как это новое дополнение,\
 ждать обновление перевода придётся\
 **сильно дольше, чем обычно**.\
@@ -102,8 +102,8 @@ title: Скачать
 Более подробно см. объявления касательно Dawntrail:\
 [XIV Rus и остальные моды в Dawntrail]({{ '/announcements/dawntrail' | relative_url }}) -->
 
-[Скачать](https://github.com/xivrus/xiv_ru_weblate/releases/latest/download/release.pmp){: .site-masthead__button mx-2 mb-2}
-[Зеркало](https://builds.xivrus.ru/releases/XIVRus-1.18.3-2026-05-07-22-13.pmp){: .site-masthead__button mx-2 mb-2}
+<!-- [Скачать](https://github.com/xivrus/xiv_ru_weblate/releases/latest/download/release.pmp){: .site-masthead__button mx-2 mb-2}
+[Зеркало](https://builds.xivrus.ru/releases/XIVRus-1.18.3-2026-05-07-22-13.pmp){: .site-masthead__button mx-2 mb-2} -->
 
 [История изменений прошлых версий](/changelog)
 
